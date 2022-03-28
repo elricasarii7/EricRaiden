@@ -1,13 +1,13 @@
 <h2 align="center">
-    ──「 Yumeko IS A MODULAR BOT WITH ANIME THEME 」──
+    ──「 Raiden Shogun A Genshin Impact Theme Based Modular Bot 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/900499565371726a3f256.jpg">
+  <img src="https://telegra.ph/file/2a35dcec012ad89d3d28c.jpg">
 </p>
 
 <p align="center">
-<a href="https://t.me/YumekoProBot"> <img src="https://github.com/Kakegurui-Domain/YumekoBot/blob/Yumeko/YumekoBot/resources/siesta-robot.svg" alt="Yumeko on Telegram" /> </a></br>
+<a href="https://t.me/The_Raiden_Shogun_bot"> <img src="https://telegra.ph/file/b79309555d37a03a03323.jpg" alt="Ei on Telegram" /> </a></br>
 <a href="https://github.com/shiinobu/YumekoBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-yellow?style=for-the-badge" alt="PRs" /></a></br>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Made%20With-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
